@@ -13,6 +13,6 @@ This project analyzes Amazon reviews for 10 headphones from different companies 
 
 **Sentiment Analysis:** Grouped the reviews into postive, negative, and neutral sentiments using python libraries pandas and textblob.  Also calculated the percetage distribution for the sentiments.
 
-**Evaluation using Gemini AI:** integrated the data set with gemini Ai with a unique API key and phrases insightful prompts to gain information on marketting and production enhacements for Beats by Dre.
+**Evaluation using Gemini AI:** Integrated the data set with gemini Ai with a unique API key and phrased insightful prompts to gain information on marketting and production enhacements for Beats by Dre.
 
 
