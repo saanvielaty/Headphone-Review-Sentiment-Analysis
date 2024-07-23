@@ -9,7 +9,7 @@ This project analyzes Amazon reviews for 10 headphones from different companies 
 
 **Exploratory Data Analysis:** Used Python Pandas library to calculate the mean, median, mode, quantiles, variance, and standard deviation of rating and helpful count columns.
 
-**Data Visualization:** Created a bar graph, wordcloud, and facetgrid using Python libraries seaborn, matplotlib, and wordcloud to understand trends in the data.  
+**Data Visualization:** Created a bar graph, wordcloud, and facetgrid using Python libraries seaborn, matplotlib,violin plot,and wordcloud to understand trends in the data.  
 
 **Sentiment Analysis:** Grouped the reviews into postive, negative, and neutral sentiments using python libraries pandas and textblob.  Also calculated the percetage distribution for the sentiments.
 
