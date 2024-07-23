@@ -1,5 +1,5 @@
-# Headphone-Review-Sentiment-Analysis
-This project analyzes Amazon reviews for 10 headphones from different companies in order to gain a better understanding of consumer sentiments.  By integratting the data set with Gemini AI, marketting and production enhancement suggestions are uncoverred to obtain maximum consumer satisfaction.  
+# Beats By Dre-Review-Sentiment-Analysis
+This project analyzes Amazon reviews for 10 headphones from different companies in order to gain a better understanding of consumer sentiments.  By integratting the data set with Gemini AI, marketting and production enhancement suggestions for beats by dre headphones are uncoverred to obtain maximum consumer satisfaction.  
 
 **Data Mining:** Found 10 headphones from different companies on amazon with substantial number of reviews, and copied the ASIN number.  Using Oxyl API, the data was scraped, and later downloaded into a JSON file.  This resulted in 10 seperate files that totalled 1000 reviews.
 
@@ -13,6 +13,6 @@ This project analyzes Amazon reviews for 10 headphones from different companies 
 
 **Sentiment Analysis:** Grouped the reviews into postive, negative, and neutral sentiments using python libraries pandas and textblob.  Also calculated the percetage distribution for the sentiments.
 
-**Evaluation using Gemini AI:** integrated the data set with gemini Ai with a unique API key and phrases insightful prompts to gain information on marketting and production enhacements.
+**Evaluation using Gemini AI:** integrated the data set with gemini Ai with a unique API key and phrases insightful prompts to gain information on marketting and production enhacements for Beats by Dre.
 
 
