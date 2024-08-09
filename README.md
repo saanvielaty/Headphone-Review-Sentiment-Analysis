@@ -5,7 +5,7 @@ This project analyzes Amazon reviews for 10 headphones from different companies 
 
 **Data Processing:** Each file was loaded into a python dataframe, and organized into the following categories: review_id	product_id, title,	author, rating, content, timestamp, profile_id, is_verified, helpful_count, and product_attributes.  Each file was then converted and dowloaded into a csv file, and later merged into 1 csv file.  
 
-**Data Cleaning:** Using python libraries NumPy and Pandas, the data was cleaned of missing/null values, duplicates, and outliers.
+**Data Cleaning:** Using python libraries NumPy and Pandas, the data was cleaned of missing/null values, duplicates, and outliers. The cleaned data can be accessed using this link: https://1drv.ms/x/s!AuyIJAferW5BkRazTW9I5fZL9Bh5?e=C8T36J
 
 **Exploratory Data Analysis:** Used Python Pandas library to calculate the mean, median, mode, quantiles, variance, and standard deviation of rating and helpful count columns.
 
