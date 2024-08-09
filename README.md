@@ -1,7 +1,7 @@
 # Beats By Dre-Review-Sentiment-Analysis
 This project analyzes Amazon reviews for 10 headphones from different companies in order to gain a better understanding of consumer sentiments.  By integratting the data set with Gemini AI, marketting and production enhancement suggestions for beats by dre headphones are uncoverred to obtain maximum consumer satisfaction.  
 
-**Data Mining:** Found 10 headphones from different companies on amazon with substantial number of reviews, and copied the ASIN number.  Using Oxyl API, the data was scraped, and later downloaded into a JSON file.  This resulted in 10 seperate files that totalled 1000 reviews.
+**Data Mining:** Found 10 headphones from different companies on amazon with substantial number of reviews, and copied the ASIN number.  Using Oxyl API, the data was scraped, and later downloaded into a JSON file.  This resulted in 10 seperate Excel files that totalled 1000 reviews.
 
 **Data Processing:** Each file was loaded into a python dataframe, and organized into the following categories: review_id	product_id, title,	author, rating, content, timestamp, profile_id, is_verified, helpful_count, and product_attributes.  Each file was then converted and dowloaded into a csv file, and later merged into 1 csv file.  
 
